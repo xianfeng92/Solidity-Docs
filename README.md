@@ -8,7 +8,7 @@
 
 * Solidity 源文件结构
 
-* 合约结构
+* [合约结构](https://github.com/xianfeng92/Solidity-Docs/blob/master/pages/ContractStructure.md)
 
 * [类型](https://github.com/xianfeng92/Solidity-Docs/blob/master/pages/Types.md)
 
