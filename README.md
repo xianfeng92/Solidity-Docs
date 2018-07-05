@@ -10,7 +10,7 @@
 
 * 合约结构
 
-* 类型
+* [类型](https://github.com/xianfeng92/Solidity-Docs/blob/master/pages/Types.md)
 
 * 单元和全局变量
 
