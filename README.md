@@ -12,7 +12,7 @@
 
 * [类型](https://github.com/xianfeng92/Solidity-Docs/blob/master/pages/Types.md)
 
-* 单元和全局变量
+* [单元和全局变量](https://github.com/xianfeng92/Solidity-Docs/blob/master/pages/UnitsAndVar.md)
 
 * 表达式和控制结构
 
